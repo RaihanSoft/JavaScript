@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 300px;
+    width: 200px;
+    background-color: red;
+
+}
