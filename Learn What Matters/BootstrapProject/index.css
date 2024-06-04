@@ -1,0 +1,82 @@
+.navbar-brand{
+    font-weight: bolder;
+   
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+
+
+
+@media only screen and (min-width: 991px) {
+    body {
+
+        .nav-item{
+            padding-left: 120px;
+        }
+
+        .navbar-brand{
+            padding-left: 20px;
+            font-family: "Poetsen One", sans-serif;
+            font-weight: bolder;
+            font-size: 30px;
+           
+        }
+        .card{
+         
+            margin-top: 50px;
+
+            
+        }
+        .one{
+            display: flex;
+            justify-content: space-evenly;
+           
+        }
+
+        .carousel-item{
+            height: 580px;
+
+  
+            }
+
+            #card{
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+        
+           
+          
+        }
+    
+
+    }
+  
+
+  .nav-item{
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+       .one{
+       margin-left: 133px;
+
+       
+     
+    
+       }
+
+
+
+
+    }}
+
+    .container-fluid .sticky{
+
+     
+            position: -webkit-sticky; /* Safari */
+            position: sticky;
+            top: 0;
+          
+    }

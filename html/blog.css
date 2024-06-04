@@ -1,0 +1,39 @@
+#d{
+    background-color: pink;
+    display: inline;
+}
+button{
+    display: block;
+
+   
+}
+
+
+
+#d1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+
+    display: inline
+}
+#d2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+
+    display: inline-block
+}
+#d3{
+    background-color: rgba(0,0, 250, 0.1);
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+
+    display:inline-block
+}

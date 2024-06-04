@@ -1,0 +1,39 @@
+#child1{
+    padding-left: 600px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+#child2 {
+    position: relative;
+    z-index: 99;
+    right: 45px;
+    border-radius: 15px;
+}
+
+#b1:hover{
+    background-color: rgb(101, 102, 102);
+
+}
+
+#b2:hover{
+    background-color: rgb(101, 102, 102);
+
+
+}
+#cart {
+    font-size: 30px;
+    margin-left: 20px;
+    color: white;
+}
+
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+    color: white;
+}}
+
+#b1, #b2 {
+    cursor: pointer;
+    color: white;
+}

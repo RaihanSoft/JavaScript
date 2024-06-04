@@ -1,0 +1,41 @@
+*{
+    text-decoration: none;
+    font-family: white;
+    box-sizing: border-box;
+    /* height: 0;
+    width: 0;
+     */
+}
+
+#var{
+    height: 25px;
+    background-color: #ff5e00;
+}
+
+a{
+    color: white;
+}
+
+#s{
+    font-size: 40px;
+    color: white;
+}
+#var1{
+    
+    height: 50px;
+    
+    background-color: #ff5e00;
+   
+
+}
+
+a{
+    padding-left: 160px;
+}
+
+#s1{
+    padding-left: 200px;
+    border-radius: 5px;
+   
+    
+}

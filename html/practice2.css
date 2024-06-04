@@ -1,0 +1,61 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#h1{
+    text-transform: capitalize;
+    /* border-width: 2px;
+    border-style:dashed;
+    border-color: red; */
+
+border: 2px solid red;
+
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    background-color: yellow;
+}
+
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+
+
+#d{
+    height: 100px;
+    background-color: pink;
+    width: 80px;
+
+    border: 2px dashed yellow;
+
+}
+
+#d1{
+   
+   height: 100px;
+   background-color: pink;
+   width: 100px;
+   border: 2px solid black;
+   border-radius:3px;
+   /* border-radius: 50%; */
+
+
+/* padding-left: 25px;
+padding-right: 25px;
+padding-top: 25px;
+padding-bottom: 30px; */
+
+padding: 25px 26px 27px 28px;
+
+/* margin-top: 50px;
+margin-left: 30px;
+margin-bottom: 20px;
+margin-right: 10px; */
+
+margin: 10px 20px 30px 40px;
+
+}
