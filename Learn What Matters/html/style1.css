@@ -1,0 +1,53 @@
+
+
+.h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: red line-through ;
+
+
+}
+
+#h1{
+    text-align: left;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+#h1{
+    font-weight: 100;
+    
+}
+
+#h2{
+    font-weight:250;
+}
+
+#h3{
+    font-weight: 700;
+}
+
+#h4{
+   font-weight: 900;
+}
+
+#p2{
+    font-family:cursive;
+}
+
+#one{
+
+    font-size: 25px;
+    line-height: 50px;
+    text-transform: capitalize;
+    
+
+}
+#two{
+    font-size: 8px;
+  
+}

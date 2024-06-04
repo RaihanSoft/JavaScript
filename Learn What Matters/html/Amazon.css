@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+    
+}
+
+#d1{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+#a1{
+    font-size: 25px;
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+
+}
+
+a{
+    padding-right: 200px;
+}
+
+/* / */
+.a{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block
+    
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+}
+#content{
+    height: 600px;
+}
