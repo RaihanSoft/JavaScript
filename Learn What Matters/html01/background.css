@@ -1,0 +1,36 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    background-image: url(/imges/Cat.jpg);
+    background-size: cover;
+
+}
+body{
+    background-image: url(/imges/Cat.jpg);
+    background-size: cover;
+ 
+
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+
+}
+.box4{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+
+}

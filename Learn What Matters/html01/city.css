@@ -1,0 +1,45 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#d1{
+  
+    background-color: #BD0404;
+    height: 30px;
+    padding-left: 900px;
+    text-align: center;
+    padding-top: 10px;
+   
+    
+    
+}
+button{
+    background-color: red;
+    margin-left: 20px;
+}
+a{
+    margin-left: 30px;
+}
+
+#div2{
+    height: 60px;
+    background-color: antiquewhite;
+    padding-left: 390px;
+    padding-top: 40px;
+    position: sticky;
+    top: 500px;
+  
+
+
+}
+
+#a1{
+    margin-left: 30px;
+
+   
+}

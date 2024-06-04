@@ -1,0 +1,11 @@
+.Love-Nature{
+    height: 100px;
+    width: 100px;
+    background-image: url(/imges/Cat.jpg);
+    background-size: cover;
+    color: red;
+    position:fixed;
+    right: 0%;
+    top:50px
+
+}
